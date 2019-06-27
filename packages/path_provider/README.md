@@ -1,4 +1,4 @@
-# path_provider
+# path_provider by cookytech
 
 [![pub package](https://img.shields.io/pub/v/path_provider.svg)](https://pub.dartlang.org/packages/path_provider)
 
